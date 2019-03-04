@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5DB3E2211FBBFA6F00A24456"
-               BuildableName = "WhiteStory 1.1.0.app"
-               BlueprintName = "WhiteStory 1.1.0"
+               BuildableName = "WhiteStory.app"
+               BlueprintName = "WhiteStory"
                ReferencedContainer = "container:WhiteStory 1.1.0.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -53,8 +53,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5DB3E2211FBBFA6F00A24456"
-            BuildableName = "WhiteStory 1.1.0.app"
-            BlueprintName = "WhiteStory 1.1.0"
+            BuildableName = "WhiteStory.app"
+            BlueprintName = "WhiteStory"
             ReferencedContainer = "container:WhiteStory 1.1.0.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -76,8 +76,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5DB3E2211FBBFA6F00A24456"
-            BuildableName = "WhiteStory 1.1.0.app"
-            BlueprintName = "WhiteStory 1.1.0"
+            BuildableName = "WhiteStory.app"
+            BlueprintName = "WhiteStory"
             ReferencedContainer = "container:WhiteStory 1.1.0.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -95,8 +95,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5DB3E2211FBBFA6F00A24456"
-            BuildableName = "WhiteStory 1.1.0.app"
-            BlueprintName = "WhiteStory 1.1.0"
+            BuildableName = "WhiteStory.app"
+            BlueprintName = "WhiteStory"
             ReferencedContainer = "container:WhiteStory 1.1.0.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

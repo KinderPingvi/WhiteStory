@@ -7,9 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "VMaskTextField.h"
+@interface ViewController : UIViewController <UITextFieldDelegate>
 
-@interface ViewController : UIViewController
-
+@property (weak, nonatomic) IBOutlet UIBarButtonItem *sidebarButton;
+@property (weak, nonatomic) IBOutlet UITextField *name;
+@property (weak, nonatomic) IBOutlet VMaskTextField *phone;
 
 @end
 
